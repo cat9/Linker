@@ -1,0 +1,51 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            ".eideignore": "ignore",
+            "STC8xxxx.H": "cpp",
+            "config.h": "c",
+            "gpio.h": "c",
+            "timer.h": "c",
+            "UART.C": "cpp",
+            "type_def.h": "c",
+            "ASK.C": "cpp",
+            "task.h": "c",
+            "app.h": "c",
+            "ask.h": "c",
+            "INTRINS.H": "cpp",
+            "stc8g.h": "c",
+            "test.h": "c"
+        },
+        "files.autoGuessEncoding": true,
+        "[yaml]": {
+            "editor.insertSpaces": true,
+            "editor.tabSize": 4,
+            "editor.autoIndent": "advanced"
+        },
+        "C_Cpp.errorSquiggles": "Disabled"
+    },
+    "extensions": {
+        "recommendations": [
+            "cl.eide",
+            "keroc.hex-fmt",
+            "xiaoyongdong.srecord",
+            "hars.cppsnippets",
+            "zixuanwang.linkerscript",
+            "redhat.vscode-yaml",
+            "cl.stm8-debug"
+        ]
+    },
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    },
+    "tasks": {
+        "version": "2.0.0",
+        "tasks": []
+    }
+}
