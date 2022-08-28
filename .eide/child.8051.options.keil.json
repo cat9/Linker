@@ -1,7 +1,14 @@
 {
     "version": 2,
     "beforeBuildTasks": [],
-    "afterBuildTasks": [],
+    "afterBuildTasks": [
+        {
+            "name": "copy executable files",
+            "disable": false,
+            "abortAfterFailed": false,
+            "command": "copy /B \"${OutDir}\\${targetName}.hex\" .\\build\\"
+        }
+    ],
     "global": {
         "ram-mode": "SMALL",
         "rom-mode": "LARGE"

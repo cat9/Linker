@@ -19,7 +19,14 @@
             "ask.h": "c",
             "INTRINS.H": "cpp",
             "stc8g.h": "c",
-            "test.h": "c"
+            "test.h": "c",
+            "uart.h": "c",
+            "device.h": "c",
+            "simplekey.h": "c",
+            "simplebeep.h": "c",
+            "simpleask.h": "c",
+            "simpleled.h": "c",
+            "eeprom.h": "c"
         },
         "files.autoGuessEncoding": true,
         "[yaml]": {

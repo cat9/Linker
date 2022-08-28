@@ -13,7 +13,7 @@
 #ifndef __UART_H
 #define __UART_H	 
 
-#include	"config.h"
+#include "../config.h"
 
 #define	UART1	1
 //#define	UART2	2
